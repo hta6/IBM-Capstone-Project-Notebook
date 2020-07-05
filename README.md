@@ -12,9 +12,9 @@ This is created for the IBM Certificate Capstone project
 
 ### 1.3 Interest
 <p>The interests of this project are followed:
-*Analyzing the distribution of single-home housing in Rockville and its nearby neighborhoods
-*Determining the common features that drive housing cost
-*Exploring the most popular venues around the areas of interest
+* Analyzing the distribution of single-home housing in Rockville and its nearby neighborhoods
+* Determining the common features that drive housing cost
+* Exploring the most popular venues around the areas of interest
 </p>
 
 ## 2. Data

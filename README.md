@@ -11,7 +11,7 @@ This is created for the IBM Certificate Capstone project
 <p>Buying a home is an emotional process and a major commitment. One can find his/her home through a local real estate agent or via Multiple Listing Service (MLS) listings websites nowadays. Oftentimes it is challenging to have a clear set of preferences as first-time home buyers. As a result, this project aims to provide a big picture of the housing market (i.e. price range, home conditions, etc.) of Rockville and the surrounding neighborhoods.</p>
 
 ### 1.3 Interest
-<p>The interests of this project are followed:</p>
+The interests of this project are followed:
 * Analyzing the distribution of single-home housing in Rockville and its nearby neighborhoods
 * Determining the common features that drive housing cost
 * Exploring the most popular venues around the areas of interest

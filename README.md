@@ -1,7 +1,7 @@
 # IBM Capstone Project Notebook
 This is created for the IBM Certificate Capstone project
 
-# Capstone Project - The Battle of Neighborhoods
+# Capstone Project - Housing Analysis of Rockville, MD
 ## 1. Introduction
 ### 1.1 Background
 <p>Rockville is one of  Maryland’s oldest towns, with its origin dating back to Colonial America. During Revolutionary times, Rockville was known as Hungerford’s Tavern, the name of its most familiar business and landmark. Rockville has grown very rapidly since its founding in 1803, from a leisurely, agriculturally-oriented county seat to a cosmopolitan city of many neighborhoods. Located approximately 14 miles north of Washington D.C., Rockville is home to a well-educated diverse population and serves as an employment center for national biomed corporations, the federal government and county government. Restaurants and shops are clustered around Rockville and its surrounding neighborhoods, with multitude of parks and recreation centers.</p>
